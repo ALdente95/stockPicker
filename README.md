@@ -20,14 +20,20 @@ alt:
 
 #Find lowest price within price_array
 
-    #compare 1 by 1 all prices in array
+    #sort by lowest to highest
 
-    or
+#Loop through price_array and find position of lowest 
 
-    #sort
+#Find highest after lowest index
 
-#Compare lowest price with every other days
+#Do this for all prices
 
-#Do this for the other prices
+alt2 (worked):
+
+#Sort price_array by lowest
+
+#Sort price_array by Highest
+
+#Compare both on same index
 
 #Find highest profit
